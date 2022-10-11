@@ -1,0 +1,13 @@
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\bin\Release\netcoreapp3.1\CallMethodFromAbstractClass.exe
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\bin\Release\netcoreapp3.1\CallMethodFromAbstractClass.deps.json
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\bin\Release\netcoreapp3.1\CallMethodFromAbstractClass.runtimeconfig.json
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\bin\Release\netcoreapp3.1\CallMethodFromAbstractClass.runtimeconfig.dev.json
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\bin\Release\netcoreapp3.1\CallMethodFromAbstractClass.dll
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\bin\Release\netcoreapp3.1\CallMethodFromAbstractClass.pdb
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\obj\Release\netcoreapp3.1\CallMethodFromAbstractClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\obj\Release\netcoreapp3.1\CallMethodFromAbstractClass.AssemblyInfoInputs.cache
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\obj\Release\netcoreapp3.1\CallMethodFromAbstractClass.AssemblyInfo.cs
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\obj\Release\netcoreapp3.1\CallMethodFromAbstractClass.csproj.CoreCompileInputs.cache
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\obj\Release\netcoreapp3.1\CallMethodFromAbstractClass.dll
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\obj\Release\netcoreapp3.1\CallMethodFromAbstractClass.pdb
+C:\Users\Zevas\source\repos\CallMethodFromAbstractClass\CallMethodFromAbstractClass\obj\Release\netcoreapp3.1\CallMethodFromAbstractClass.genruntimeconfig.cache

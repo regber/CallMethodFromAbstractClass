@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mvIKUa3v3IcsxyBpsmUHSyCCUhC4oHG5hQiQL0wx++e+mQdmJnPXIdDAu9uVz82MbX7scE1Xuu+ZkEaubqcfiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Zevas\\source\\repos\\CallMethodFromAbstractClass\\CallMethodFromAbstractClass\\CallMethodFromAbstractClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zevas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
